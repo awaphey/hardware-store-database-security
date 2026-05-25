@@ -1,0 +1,36 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5050
+Press CTRL+C to quit
+127.0.0.1 - - [23/May/2026 13:31:42] "GET /orders HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 13:31:43] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:16:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:16:58] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:16:58] "GET /static/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:17:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:17:40] "GET /static/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:17:40] "GET /static/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:20:54] "POST /products HTTP/1.1" 302 -
+127.0.0.1 - - [23/May/2026 14:20:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:20:54] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:20:54] "GET /static/app.js HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:22:14] "GET /orders HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:22:14] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:22:14] "GET /static/app.js HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:22:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:22:16] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:22:16] "GET /static/app.js HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:22:32] "POST /products/5/delete HTTP/1.1" 302 -
+127.0.0.1 - - [23/May/2026 14:22:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:22:32] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:22:32] "GET /static/app.js HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:24:22] "POST /products HTTP/1.1" 302 -
+127.0.0.1 - - [23/May/2026 14:24:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:24:22] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:24:22] "GET /static/app.js HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:24:57] "GET /orders HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:24:57] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:24:57] "GET /static/app.js HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:25:14] "POST /orders HTTP/1.1" 302 -
+127.0.0.1 - - [23/May/2026 14:25:14] "GET /orders HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2026 14:25:14] "GET /static/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [23/May/2026 14:25:14] "GET /static/app.js HTTP/1.1" 304 -
