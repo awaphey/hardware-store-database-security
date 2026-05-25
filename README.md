@@ -1,6 +1,5 @@
 # PC Hardware & Peripherals Store
 
-Member 2 implementation for the Database and Cloud Security assignment.
 
 ## Stack
 
